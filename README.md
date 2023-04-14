@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/zkSuite/zkforms-frontend/blob/main/public/static/logo.png" alt="Logo" width="350" height="100">
+  
   
   <h3 align="center">zkForms</h3>
 
