@@ -5,14 +5,6 @@
 
   <p align="center">
 zkForms is a web3-focused form builder to construct online forms and surveys with multiple question formats, restrictions and better analysis that can be accessed from any device, anytime, and anywhere.
-  </p>
-    <br />
-    <a href="https://zkforms.vercel.app/">View Demo</a>
-    ·
-    <a href="https://github.com/zkSuite/zkforms-frontend/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/zkSuite/zkforms-frontend/issues">Request Feature</a>
-  </p>
 </div>
   
 ## About The Project
@@ -26,11 +18,9 @@ To create the frontend which includes form builder, form renderer, and data view
 
 In order to provide Zero-Knowledge Proofs that demonstrate the user's membership in the DAO, zkForms also makes use of SnarkJS and Circom2.0.
 
-You can also generate proofs locally and submit on the client using the zkForms cli tool: [https://github.com/zkSuite/zkforms-cli](https://github.com/zkSuite/zkforms-cli)
-
 zkForms also uses the AWS S3 to host the static files like circuit.wasm and circuit.zkey used in generating the Zero Knowledge Proofs and AWS Cloudfront to speed up the distribution of static files to the users.
 
-All the smart contracts and circom circuits are available at: [https://github.com/zkSuite/zkForms-core](https://github.com/zkSuite/zkForms-core)
+All the smart contracts and circom circuits are available at: [https://github.com/ShivamAgarwal-code/Goreeva_Assignment.git](https://github.com/ShivamAgarwal-code/Goreeva_Assignment.git)
 
 Check it out here: [https://zkforms.vercel.app/](https://zkforms.vercel.app/)
 
